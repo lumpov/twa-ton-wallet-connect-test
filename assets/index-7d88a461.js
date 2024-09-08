@@ -887,4 +887,4 @@ PERFORMANCE OF THIS SOFTWARE.
 `,xN=Ba.div`
   max-width: 900px;
   margin: 0 auto;
-`;function MN(){const{network:e}=B9();return Hr(wN,{children:Hr(xN,{children:Io(z9,{children:[Io(du,{children:[Hr(pU,{}),Hr($9,{children:e?e===Vl.MAINNET?"mainnet":"testnet":"N/A"})]}),Hr(bN,{})]})})})}const _N="https://alefmanvladimir.github.io/my-twa/tonconnect-manifest.json",SN=new R_({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});bv.createRoot(document.getElementById("root")).render(Hr(cU,{manifestUrl:_N,children:Hr(NS,{client:SN,children:Hr(MN,{})})}));
+`;function MN(){const{network:e}=B9();return Hr(wN,{children:Hr(xN,{children:Io(z9,{children:[Io(du,{children:[Hr(pU,{}),Hr($9,{children:e?e===Vl.MAINNET?"mainnet":"testnet":"N/A"})]}),Hr(bN,{})]})})})}const _N="https://lumpov.github.io/twa-ton-wallet-connect-test/tonconnect-manifest.json",SN=new R_({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});bv.createRoot(document.getElementById("root")).render(Hr(cU,{manifestUrl:_N,children:Hr(NS,{client:SN,children:Hr(MN,{})})}));
